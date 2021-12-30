@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You will face many defeats in life, but never let yourself be defeated - Maya Angelou
+
 <!--
 **SayedMaheen/SayedMaheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
